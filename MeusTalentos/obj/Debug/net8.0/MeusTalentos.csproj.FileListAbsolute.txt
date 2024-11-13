@@ -1,0 +1,14 @@
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\bin\Debug\net8.0\MeusTalentos.exe
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\bin\Debug\net8.0\MeusTalentos.deps.json
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\bin\Debug\net8.0\MeusTalentos.runtimeconfig.json
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\bin\Debug\net8.0\MeusTalentos.dll
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\bin\Debug\net8.0\MeusTalentos.pdb
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.AssemblyInfoInputs.cache
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.AssemblyInfo.cs
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.csproj.CoreCompileInputs.cache
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.dll
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\refint\MeusTalentos.dll
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.pdb
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\MeusTalentos.genruntimeconfig.cache
+D:\DIO - Full Stack - XP\Desafios\Desafio 11 - Blindando seu codigo com TDD e testes unitarios usando .net core\MeusTalentos\obj\Debug\net8.0\ref\MeusTalentos.dll
